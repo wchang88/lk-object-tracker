@@ -36,6 +36,8 @@ The algorithm for drift correction is described in the following paper:
 Iain Matthews, Takahiro Ishikawa, and Simon Baker. The template update problem. In Proceedings of
 British Machine Vision Conference (BMVC ’03), September 2003.  
 
+*The blue box tracks the object without drift correction, and the red with drift correction*  
+
 Tracking the car in traffic with drift correction  
 ![](/results/car-in-traffic/with-template-correction/sol_1.4_carseq_1.png)
 ![](/results/car-in-traffic/with-template-correction/sol_1.4_carseq_80.png)
